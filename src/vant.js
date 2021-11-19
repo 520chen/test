@@ -1,0 +1,65 @@
+import app from "./creat"
+import {
+  Button,
+  Icon,
+  Col,
+  Row,
+  Popup,
+  Toast,
+  Calendar,
+  Cascader,
+  Checkbox,
+  CheckboxGroup,
+  DatetimePicker,
+  Form,
+  Field,
+  CellGroup,
+  Picker,
+  RadioGroup,
+  Radio,
+  Search,
+  Slider,
+  Grid,
+  GridItem,
+  Tabbar,
+  TabbarItem,
+  Swipe,
+  SwipeItem,
+  Sticky,
+  NoticeBar,
+  Lazyload,
+  ImagePreview,
+  Sidebar,
+  SidebarItem,
+} from "vant"
+app.use(Button)
+app.use(Icon)
+app.use(Col)
+app.use(Row)
+app.use(Popup)
+app.use(Toast)
+app.use(Calendar)
+app.use(Cascader)
+app.use(Checkbox)
+app.use(CheckboxGroup)
+app.use(DatetimePicker)
+app.use(Form)
+app.use(Field)
+app.use(CellGroup)
+app.use(Picker)
+app.use(RadioGroup)
+app.use(Radio)
+app.use(Search)
+app.use(Slider)
+app.use(Grid)
+app.use(GridItem)
+app.use(Tabbar)
+app.use(TabbarItem)
+app.use(Swipe)
+app.use(SwipeItem)
+app.use(Sticky)
+app.use(NoticeBar)
+app.use(Lazyload)
+app.use(ImagePreview)
+app.use(Sidebar)
+app.use(SidebarItem)
